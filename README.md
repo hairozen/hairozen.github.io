@@ -18,11 +18,11 @@ The portrait is `assets/hai-portrait.jpg`, a web-sized copy of the supplied phot
 
 Public site: https://hairozen.github.io/
 
-The publication branch is `site/first-version`. GitHub Pages serves the repository root. Future changes deploy after they are pushed to this branch.
+The publication branch is `main`. GitHub Pages serves the repository root. Future changes deploy after they are pushed to this branch.
 
 1. Push the reviewed website files to `hairozen/hairozen.github.io`.
 2. In the repository’s **Settings → Pages**, select **Deploy from a branch**.
-3. Select `site/first-version` and **/ (root)**, then save.
+3. Select `main` and **/ (root)**, then save.
 4. After GitHub deploys, open the Pages URL and check portrait, links, keyboard navigation, and mobile layout.
 
 For a repository named `hairozen.github.io` owned by `hairozen`, the user-site URL is `https://hairozen.github.io/`. No workflow, analytics, tracking, forms, or JavaScript are required.
